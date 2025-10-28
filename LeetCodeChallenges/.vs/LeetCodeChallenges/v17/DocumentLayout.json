@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Samara\\source\\repos\\LeetCodeChallenges\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{798094EA-F1A6-4741-9BF7-8AF5AD077EB9}|LeetCodeChallenges\\LeetCodeChallenges.csproj|c:\\users\\samara\\source\\repos\\leetcodechallenges\\leetcodechallenges\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798094EA-F1A6-4741-9BF7-8AF5AD077EB9}|LeetCodeChallenges\\LeetCodeChallenges.csproj|solutionrelative:leetcodechallenges\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samara\\source\\repos\\LeetCodeChallenges\\LeetCodeChallenges\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCodeChallenges\\Program.cs",
+              "ToolTip": "C:\\Users\\Samara\\source\\repos\\LeetCodeChallenges\\LeetCodeChallenges\\Program.cs",
+              "RelativeToolTip": "LeetCodeChallenges\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:36:40.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

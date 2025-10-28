@@ -1,0 +1,14 @@
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\bin\Debug\net8.0\LeetCodeChallenge1.exe
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\bin\Debug\net8.0\LeetCodeChallenge1.deps.json
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\bin\Debug\net8.0\LeetCodeChallenge1.runtimeconfig.json
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\bin\Debug\net8.0\LeetCodeChallenge1.dll
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\bin\Debug\net8.0\LeetCodeChallenge1.pdb
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\obj\Debug\net8.0\LeetCodeChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\obj\Debug\net8.0\LeetCodeChallenge1.AssemblyInfoInputs.cache
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\obj\Debug\net8.0\LeetCodeChallenge1.AssemblyInfo.cs
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\obj\Debug\net8.0\LeetCodeChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\obj\Debug\net8.0\LeetCodeChallenge1.dll
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\obj\Debug\net8.0\refint\LeetCodeChallenge1.dll
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\obj\Debug\net8.0\LeetCodeChallenge1.pdb
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\obj\Debug\net8.0\LeetCodeChallenge1.genruntimeconfig.cache
+C:\Users\Samara\source\repos\LeetCodeChallenges\LeetCodeChallenges\obj\Debug\net8.0\ref\LeetCodeChallenge1.dll
