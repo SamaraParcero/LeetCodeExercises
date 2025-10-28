@@ -1,0 +1,15 @@
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\bin\Debug\net8.0\LeetCodeChallenge2ListNodeSum.exe
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\bin\Debug\net8.0\LeetCodeChallenge2ListNodeSum.deps.json
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\bin\Debug\net8.0\LeetCodeChallenge2ListNodeSum.runtimeconfig.json
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\bin\Debug\net8.0\LeetCodeChallenge2ListNodeSum.dll
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\bin\Debug\net8.0\LeetCodeChallenge2ListNodeSum.pdb
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\obj\Debug\net8.0\LeetCodeChallenge2ListNodeSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\obj\Debug\net8.0\LeetCodeChallenge2ListNodeSum.AssemblyInfoInputs.cache
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\obj\Debug\net8.0\LeetCodeChallenge2ListNodeSum.AssemblyInfo.cs
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\obj\Debug\net8.0\LeetCodeChallenge2ListNodeSum.csproj.CoreCompileInputs.cache
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\obj\Debug\net8.0\LeetCodeChallenge2ListNodeSum.sourcelink.json
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\obj\Debug\net8.0\LeetCodeChallenge2ListNodeSum.dll
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\obj\Debug\net8.0\refint\LeetCodeChallenge2ListNodeSum.dll
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\obj\Debug\net8.0\LeetCodeChallenge2ListNodeSum.pdb
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\obj\Debug\net8.0\LeetCodeChallenge2ListNodeSum.genruntimeconfig.cache
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge2ListNodeSum\obj\Debug\net8.0\ref\LeetCodeChallenge2ListNodeSum.dll

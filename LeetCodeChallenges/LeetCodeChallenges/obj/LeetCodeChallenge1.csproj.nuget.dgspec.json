@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samara\\source\\repos\\LeetCodeChallenges\\LeetCodeChallenges\\LeetCodeChallenge1.csproj": {}
+    "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenges\\LeetCodeChallenge1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samara\\source\\repos\\LeetCodeChallenges\\LeetCodeChallenges\\LeetCodeChallenge1.csproj": {
+    "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenges\\LeetCodeChallenge1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samara\\source\\repos\\LeetCodeChallenges\\LeetCodeChallenges\\LeetCodeChallenge1.csproj",
+        "projectUniqueName": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenges\\LeetCodeChallenge1.csproj",
         "projectName": "LeetCodeChallenge1",
-        "projectPath": "C:\\Users\\Samara\\source\\repos\\LeetCodeChallenges\\LeetCodeChallenges\\LeetCodeChallenge1.csproj",
+        "projectPath": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenges\\LeetCodeChallenge1.csproj",
         "packagesPath": "C:\\Users\\Samara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samara\\source\\repos\\LeetCodeChallenges\\LeetCodeChallenges\\obj\\",
+        "outputPath": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenges\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
