@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeChallenge1", "LeetC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeChallenge2ListNodeSum", "LeetCodeChallenge2ListNodeSum\LeetCodeChallenge2ListNodeSum.csproj", "{7A89DA3D-7334-457A-B897-0C0E47B80951}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeChallenge3", "LeetCodeChallenge3\LeetCodeChallenge3.csproj", "{3911D762-B2BB-443C-A75F-344CB40994CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7A89DA3D-7334-457A-B897-0C0E47B80951}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A89DA3D-7334-457A-B897-0C0E47B80951}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A89DA3D-7334-457A-B897-0C0E47B80951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3911D762-B2BB-443C-A75F-344CB40994CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3911D762-B2BB-443C-A75F-344CB40994CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3911D762-B2BB-443C-A75F-344CB40994CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3911D762-B2BB-443C-A75F-344CB40994CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
