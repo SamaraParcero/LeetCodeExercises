@@ -1,0 +1,15 @@
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\bin\Debug\net8.0\LeetCodeChallenge7.exe
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\bin\Debug\net8.0\LeetCodeChallenge7.deps.json
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\bin\Debug\net8.0\LeetCodeChallenge7.runtimeconfig.json
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\bin\Debug\net8.0\LeetCodeChallenge7.dll
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\bin\Debug\net8.0\LeetCodeChallenge7.pdb
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\obj\Debug\net8.0\LeetCodeChallenge7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\obj\Debug\net8.0\LeetCodeChallenge7.AssemblyInfoInputs.cache
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\obj\Debug\net8.0\LeetCodeChallenge7.AssemblyInfo.cs
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\obj\Debug\net8.0\LeetCodeChallenge7.csproj.CoreCompileInputs.cache
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\obj\Debug\net8.0\LeetCodeChallenge7.sourcelink.json
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\obj\Debug\net8.0\LeetCodeChallenge7.dll
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\obj\Debug\net8.0\refint\LeetCodeChallenge7.dll
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\obj\Debug\net8.0\LeetCodeChallenge7.pdb
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\obj\Debug\net8.0\LeetCodeChallenge7.genruntimeconfig.cache
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge7\obj\Debug\net8.0\ref\LeetCodeChallenge7.dll
