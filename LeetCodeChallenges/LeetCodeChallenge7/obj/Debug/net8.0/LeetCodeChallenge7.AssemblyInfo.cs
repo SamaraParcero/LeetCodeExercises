@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCodeChallenge7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6f3df8cbc0842434e05abee88ed0c321b7dfc4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31c634948ffb58cc3ff51a7100a09b857eeba88c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCodeChallenge7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCodeChallenge7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

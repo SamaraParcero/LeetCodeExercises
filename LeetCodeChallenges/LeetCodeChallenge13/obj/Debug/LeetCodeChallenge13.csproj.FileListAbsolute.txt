@@ -1,0 +1,7 @@
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge13\bin\Debug\LeetCodeChallenge13.exe.config
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge13\bin\Debug\LeetCodeChallenge13.exe
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge13\bin\Debug\LeetCodeChallenge13.pdb
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge13\obj\Debug\LeetCodeChallenge13.csproj.AssemblyReference.cache
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge13\obj\Debug\LeetCodeChallenge13.csproj.CoreCompileInputs.cache
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge13\obj\Debug\LeetCodeChallenge13.exe
+C:\Users\Samara\source\repos\SamaraParcero\LeetCodeExercises\LeetCodeChallenges\LeetCodeChallenge13\obj\Debug\LeetCodeChallenge13.pdb
