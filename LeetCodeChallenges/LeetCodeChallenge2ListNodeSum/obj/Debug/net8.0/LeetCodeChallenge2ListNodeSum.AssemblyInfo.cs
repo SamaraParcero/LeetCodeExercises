@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCodeChallenge2ListNodeSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7222b9ecaa3b8b689c62b3b7d682f1212c9652d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60e211b7e47dd048555e74878a4fc23b30909b59")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCodeChallenge2ListNodeSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCodeChallenge2ListNodeSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
