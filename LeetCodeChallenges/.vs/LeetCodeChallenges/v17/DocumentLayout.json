@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA4E6118-3E77-4A0D-8737-C3B816A8A5B0}|LeetCodeChallenge27\\LeetCodeChallenge27.csproj|c:\\users\\samara\\source\\repos\\samaraparcero\\leetcodeexercises\\leetcodechallenges\\leetcodechallenge27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4E6118-3E77-4A0D-8737-C3B816A8A5B0}|LeetCodeChallenge27\\LeetCodeChallenge27.csproj|solutionrelative:leetcodechallenge27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D4C0ADF-A0DB-49A7-9BA8-368E2706541A}|LeetCodeChalenge26\\LeetCodeChalenge26.csproj|c:\\users\\samara\\source\\repos\\samaraparcero\\leetcodeexercises\\leetcodechallenges\\leetcodechalenge26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D4C0ADF-A0DB-49A7-9BA8-368E2706541A}|LeetCodeChalenge26\\LeetCodeChalenge26.csproj|solutionrelative:leetcodechalenge26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{405094F9-3DD6-4275-B177-09A08E5E3BDD}|LeetCodeChallenge21\\LeetCodeChallenge21.csproj|c:\\users\\samara\\source\\repos\\samaraparcero\\leetcodeexercises\\leetcodechallenges\\leetcodechallenge21\\mergetwosortedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{405094F9-3DD6-4275-B177-09A08E5E3BDD}|LeetCodeChallenge21\\LeetCodeChallenge21.csproj|C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\leetcodechallenge21\\mergetwosortedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{405094F9-3DD6-4275-B177-09A08E5E3BDD}|LeetCodeChallenge21\\LeetCodeChallenge21.csproj|solutionrelative:leetcodechallenge21\\mergetwosortedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,6 +48,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenge27\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCodeChallenge27\\Program.cs",
+              "ToolTip": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenge27\\Program.cs",
+              "RelativeToolTip": "LeetCodeChallenge27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:38:57.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChalenge26\\Program.cs",
               "RelativeDocumentMoniker": "LeetCodeChalenge26\\Program.cs",
               "ToolTip": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChalenge26\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MergeTwoSortedLists.cs",
               "DocumentMoniker": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenge21\\MergeTwoSortedLists.cs",
               "RelativeDocumentMoniker": "LeetCodeChallenge21\\MergeTwoSortedLists.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "LeetCodeChallenge21\\MergeTwoSortedLists.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:40:36.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T17:40:36.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenge21\\Program.cs",
               "RelativeDocumentMoniker": "LeetCodeChallenge21\\Program.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenge20\\Program.cs",
               "RelativeDocumentMoniker": "LeetCodeChallenge20\\Program.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenge14\\Program.cs",
               "RelativeDocumentMoniker": "LeetCodeChallenge14\\Program.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenge13\\Program.cs",
               "RelativeDocumentMoniker": "LeetCodeChallenge13\\Program.cs",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Samara\\source\\repos\\SamaraParcero\\LeetCodeExercises\\LeetCodeChallenges\\LeetCodeChallenge9\\Program.cs",
               "RelativeDocumentMoniker": "LeetCodeChallenge9\\Program.cs",
